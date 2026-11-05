@@ -1,0 +1,21 @@
+{
+  "format": "statementpro-prices",
+  "data": {
+    "issued_at": "2026-11-03",
+    "plans": {
+      "basic": 3000,
+      "pro": 5000,
+      "ca_pack": 8500
+    },
+    "addons": {
+      "tally": 2000,
+      "ledger_rules": 1000,
+      "merge_summary": 1000,
+      "upi_parser": 1000,
+      "client_manager": 2500,
+      "multi_user": 2000,
+      "reconciliation": 2500
+    }
+  },
+  "signature": "YAmrqG6xCBn1AvCYE4pm8m7Gxh8cRAdo6b8DbUW6maqOAjeAvBi6awpdDHbhx2bb77Ih7_hGXMsFA7KD1TiZAg"
+}
